@@ -1,0 +1,25 @@
+Metadata-Version: 1.2
+Name: instaloader
+Version: 4.2.8
+Summary: Download pictures (or videos) along with their captions and other metadata from Instagram.
+Home-page: https://instaloader.github.io/
+Author: Alexander Graf, André Koch-Kramer
+Author-email: mail@agraf.me, koch-kramer@web.de
+License: MIT
+Description: Description
+Keywords: instagram,instagram-scraper,instagram-client,instagram-feed,downloader,videos,photos,pictures,instagram-user-photos,instagram-photos,instagram-metadata,instagram-downloader,instagram-stories
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Internet
+Classifier: Topic :: Multimedia :: Graphics
+Requires-Python: >=3.5
