@@ -461,7 +461,6 @@ class Instaloader:
         # Download the image(s) / video thumbnail and videos within sidecars if desired
         downloaded = True
         self._committed = self.check_if_committed(filename)
-        print('loliiii amaaaannn amaaan amannn ' + filename)
 
         if self.download_pictures:
             if post.typename == 'GraphSidecar':
